@@ -1,0 +1,17 @@
+{
+  "parser": "babel-eslint",
+  "extends": "eslint-config-honu-base",
+  "env": {
+    "browser": true,
+    "mocha": true,
+    "node": true
+  },
+  "rules": {
+    "consistent-return": 0,
+    "comma-dangle": [1, "always-multiline"],
+    "no-use-before-define": 0
+  },
+  "plugins": [
+    "import"
+  ]
+}

@@ -1,0 +1,12 @@
+== What ==
+
+Simple Template to help kick-start a single-page site
+
+== How ==
+
+- `npm run pack` to pack site and assets into `dist` folder
+- `npm run release` to release
+
+=== Notes ===
+
+Currently has problems doing more than one page correctly. Plan to fix it later.
